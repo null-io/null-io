@@ -6,3 +6,8 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/-Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" />
+</p>
