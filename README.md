@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋</h1>
----
 
 ### 🛠️ Skills & Tools
 | Mobile | Backend | Databases | DevOps | Others |
