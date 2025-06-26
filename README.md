@@ -1,9 +1,4 @@
 <h1 align="center">Hi there 👋</h1>
-
-<p align="center">
-  <em>Software Engineer | Dart/Flutter Developer | Java Developer ⚡</em>
-</p>
-
 ---
 
 ### 🧰 Tech Stack:
